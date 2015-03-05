@@ -17,6 +17,8 @@ module.exports = {
    * environment (see config/connections.js and config/models.js )           *
    ***************************************************************************/
 
+  port: 1234,
+  host: '190.9.42.140',
   // models: {
   //   connection: 'someMongodbServer'
   // }
