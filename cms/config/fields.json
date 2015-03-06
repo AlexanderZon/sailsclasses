@@ -1,0 +1,20 @@
+{
+  "fields": {
+    "address": "object",
+    "audios": "object",
+    "checkbox": "array",
+    "date-time": "object",
+    "dropdown": "array",
+    "email": "string",
+    "images": "string",
+    "list": "array",
+    "multiple-choices": "array",
+    "other-files": "object",
+    "paragraph": "string",
+    "phone-number": "string",
+    "single-line": "string",
+    "table": "array",
+    "videos": "object",
+    "website": "string"
+  }
+}

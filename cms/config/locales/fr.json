@@ -1,0 +1,12 @@
+{
+  "copyright": "Aucun copyright.",
+  "website": "Site web",
+  "ecosystem": "Ecosystème",
+  "twitter": "Twitter",
+
+  "home.lookingAt": "La vue actuelle est:",
+  "home.intro1": "extens.io est un écosystème Node.js open-source qui permet de réaliser des applications web temps-réel basées sur le framework Sails.",
+  "home.intro2": "Utiliser l'écosystème extens.io signifie que votre application utilise le framework Sails et que vous faites confiance à extens.io pour vous donner plus de fonctionnalités, hooks, mises à jour, etc.",
+  "home.admin.description": "Gérer facilement vos utilisateurs, APIs, modules, données, réglages et environnements avec le panel d'admin.",
+  "home.admin.access": "Accéder au panel d'administration"
+}

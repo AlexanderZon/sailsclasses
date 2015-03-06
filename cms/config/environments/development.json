@@ -1,0 +1,54 @@
+{
+  "port": 1337,
+  "connections": {
+    "default": {
+      "adapter": "sails-disk",
+      "fileName": "cms.db"
+    }
+  },
+  "models": {
+    "connection": "default",
+    "migrate": "alter"
+  },
+  "userfeatures": {
+    "sails-admin": {
+      "connections": {
+        "admin": "default"
+      }
+    }
+  },
+  "auth": {
+    "facebook": {
+      "public": "",
+      "private": ""
+    },
+    "twitter": {
+      "public": "",
+      "private": ""
+    },
+    "github": {
+      "public": "",
+      "private": ""
+    },
+    "linkedin": {
+      "public": "",
+      "private": ""
+    },
+    "tumblr": {
+      "public": "",
+      "private": ""
+    },
+    "wordpress": {
+      "public": "",
+      "private": ""
+    }
+  },
+  "session": {
+    "adapter": "memory",
+    "key": "cms.sid",
+    "secret": "f8ea07afa8747c41e42385f36f56db98",
+    "cookie": {
+      "maxAge": 31536000
+    }
+  }
+}

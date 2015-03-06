@@ -1,0 +1,12 @@
+{
+  "copyright": "Copyright no one at all.",
+  "website": "Website",
+  "ecosystem": "Ecosystem",
+  "twitter": "Twitter",
+
+  "home.lookingAt": "You are looking at:",
+  "home.intro1": "extens.io is an open-source governance Node.js ecosystem to make a new kind of realtime web applications build on top of the Sails framework.",
+  "home.intro2": "Using the extens.io ecosystem means your application requires Sails and you trust extens.io to give you more features, hooks, updates, etc.",
+  "home.admin.description": "Easily manage users, APIs, modules, data, settings and environments with the admin panel.",
+  "home.admin.access": "Access the admin panel"
+}

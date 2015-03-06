@@ -1,0 +1,13 @@
+{
+  "environment": "development",
+  "i18n": {
+    "locales": [
+      "en",
+      "fr"
+    ],
+    "defaultLocale": "en"
+  },
+  "hooks": {
+    "views": false
+  }
+}
